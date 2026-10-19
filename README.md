@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 # 💫 About Me:
 Conducting research into technology performance and optimization, driven by a commitment to building solutions that improve people’s lives
 
@@ -21,9 +20,9 @@ Conducting research into technology performance and optimization, driven by a co
 [![](https://komarev.com/ghpvc/?username=xtraa0001&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/nicotaal) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/atom3) 
 
-  
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **xtraa0001/xtraa0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
